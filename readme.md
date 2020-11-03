@@ -1,5 +1,5 @@
 # Machine-learning-coursera
-Including Matlab-octave files done for course "Machine Learning" (Stanford Univ.) available in Coursera e-learning platform
+Including Matlab-octave files done and also provided for course "Machine Learning" (Stanford Univ.) available in Coursera e-learning platform
 (Jan - Apr 2018)
 ---------------------------------------------------------------------------------------------------------------------------
 Syllabus includes:
